@@ -55,3 +55,7 @@ a {
 .white {
   color: white;
 }
+
+.left {
+  text-align: left;
+}
