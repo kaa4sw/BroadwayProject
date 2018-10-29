@@ -1,0 +1,10 @@
+body {
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  font-family: "Helvetica"
+}
+
+.image-background {
+  background-image: url(graphics\the-flatiron-building.png);
+}
